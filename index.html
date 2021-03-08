@@ -37,16 +37,24 @@
                     padding: 5px 15px;
                     text-align: center;
                 }
-
-
-                ZenyattaPicture {
-                    position: absolute;
-                    height: 100px;
-                    width: 100px;
+                
+                
+                .column {
+                    float: left;
+                    width: 33.33%;
+                    padding: 5px;
                     
                     
                 }
                 
+                
+                .row::after {
+                    content: "";
+                    clear: both;
+                    display: table;
+                    
+                    
+                }
                 
                 
                 
@@ -85,16 +93,16 @@
     
     
    <!--These are the two images that I will be putting halfway overtop the background video. You can look at my mockup design to see what I mean. Still trying to figure it out.--> 
- <div class="ZenyattaPicture">   
-   
-<img src="Zenyatta.jfif" style="height: 400px; width: 650px" alt="Zenyatta Picture">
     
+<div class="row">
+    <div class="column">
+        <img src="Zenyatta.jfif" style="height: 400px; width: 650px; width: 100%" alt="Zenyatta Picture">
+    </div>
+
+    <div class="column">
+        <img src="Lucio.png" style="height: 400px; width: 650px; width: 100%" alt="Lucio Picture">
+    </div>
 </div>
-    
-<img src="Lucio.png" style="height: 400px; width: 650px" alt="Lucio Picture">
-    
-    
-    
     
     
     
@@ -104,7 +112,7 @@
         <p style="margin-left: 300px; margin-right: 300px">Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. Described as a "hero shooter", Overwatch assigns 
         players into two teams of six, with each player selecting from a large roster of characters, known as "heroes", with unique abilities.</p>
     
-   
+
 
     
     
@@ -178,5 +186,5 @@
     
     
     
-</body>
+    </body>
 </html> 
