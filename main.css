@@ -80,7 +80,7 @@
                 .column {
                     float: none;
                     width: 750px;
-                    margin: -250px 150px 0 50px;
+                    margin: -250px 150px 50px 50px;
                     position: relative;
                     z-index: 10;
                 }
