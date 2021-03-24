@@ -78,18 +78,16 @@
         /*This is the CSS code for the Lucio and Zenyatta pictures*/
                 
                 .column {
-                    float: left;
-                    width: 33.33%;
-                    padding: 0;
-                    margin-right: 250px;
-                    margin-left: 50px;
-                        
+                    float: none;
+                    width: 750px;
+                    margin: -250px 150px 0 50px;
+                    position: relative;
+                    z-index: 10;
                 }
                 
                 
                 .row::after {
-                    content: "";
-                    clear: both;
+                    
                     display: table;
                     
                 }
