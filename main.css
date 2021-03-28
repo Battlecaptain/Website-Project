@@ -104,6 +104,24 @@
                 }
 
 
+
+                #ZenyattaImg {
+                    height: 400px;
+                    width: 650px;
+                    width: 100%;
+    
+                }
+
+
+                #LucioImg {
+                    height: 400px;
+                    width: 900px;
+                    width: 100%;
+    
+                }
+
+
+
         /*This is the CSS code for h1 what is overwatch*/
                 #Title1 {
                     text-align: center;
