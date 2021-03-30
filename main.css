@@ -71,6 +71,7 @@
                     display: flex;
                     align-items: center;
                     justify-content: center;
+                    
                 } 
 
                 .Overlay h1 {
@@ -81,6 +82,7 @@
                     mix-blend-mode: overlay;
                     padding: 5px 15px;
                     text-align: center;
+    
                 }
                 
 
@@ -126,6 +128,7 @@
                 }
 
 
+
         /*This is the CSS code for the first paragraph explaing what overwatch is*/
                 #p1 {
                     margin-left: 300px;
@@ -150,7 +153,6 @@
 
 
 
-
         /*This is the CSS code for heading 2 gameplay*/
 
                 #Title2 {
@@ -170,7 +172,6 @@
                 }
 
 
-
         /*This is the CSS code for heading 3 Plot*/
                 #Title3 {
                     text-decoration: underline;
@@ -178,7 +179,5 @@
                     color: dimgray;
     
                 }
-
-
 
 
