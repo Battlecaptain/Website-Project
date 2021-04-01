@@ -1,9 +1,54 @@
     
-
+    /*This is the CSS code for the background body color*/
             #body {
                 background-color: orange;
                 
             }
+
+    /*This is the CSS code for the Navigation*/
+
+                ul {
+                    list-style-type: none;
+                    margin: 0;
+                    padding: 0;
+                    overflow-x: hidden;
+                    background-color: #333;
+                    position: relative;
+                    z-index: 10;
+                }
+
+
+                li {
+                    float: left;
+                    margin-left: 235px;
+                    
+                }
+
+
+                li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 14px 25px;
+                    text-decoration: none;
+                    font-size: 20px;
+                    
+                }
+
+
+                li a:hover:not(.active) {
+                    background-color: #111;
+                    
+                }
+
+                
+                .active {
+                    background-color: #4CAF50;
+                    
+                }
+
+
+
 
 
 
