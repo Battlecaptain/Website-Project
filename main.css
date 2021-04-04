@@ -171,6 +171,12 @@
     
                 }
 
+                #img-fluid {
+                    max-width: 100%;
+                    height: auto;
+    
+                }
+
 
         /*This is the CSS code for heading 3 Plot*/
                 #Title3 {
