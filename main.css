@@ -64,6 +64,22 @@
 
 
 
+                .d-inline-block {
+                    padding-right: 5px;
+                    padding-top: 5px;
+    
+                }
+
+
+                .navbar-brand {
+                    padding-top: 5px;
+    
+                }
+
+
+
+
+
     /*This is the CSS code for the overwatch title in the center of the background video*/
 
                 .Overlay {
