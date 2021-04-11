@@ -226,6 +226,128 @@
             }
 
 
+/*This is the CSS code for the D.Va picture and info*/
+
+            .DVAcontainer {
+                display: flex;
+                
+            }
+
+
+            #DVA2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .DVA {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .DVAText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #DVAHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Bastion picture and info*/
+
+
+            .BastionContainer {
+                display: flex;
+                
+            }
+
+
+            #Bastion2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Bastion {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .BastionText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #BastionHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS cod efor the Zenyatta picture and info*/
+
+
+            .ZenyattaContainer {
+                display: flex;
+                
+            }
+
+
+            #Zenyatta2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Zenyatta {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .ZenyattaText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #ZenyattaHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
