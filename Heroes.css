@@ -64,13 +64,22 @@
                 }
 
 
-/*The CSS code for the container which includes all the pictures and text*/
+/*The CSS code for the container which includes all the pictures and text. Also the HR line code.*/
 
                 .PictureContainer {
                     display: flex;
     
                 }
 
+                hr {
+                    clear:both;
+                    display:block;  
+                    padding-top: 20px;
+                    margin-left: 70px;
+                    margin-right: 70px;
+                    background-color:crimson;
+                    
+                }
 
 
 /*CSS code for Tracer Picture and info*/
@@ -78,6 +87,7 @@
             .Tracer {
                 margin-left: 150px;
                 flex-basis: 40%;
+                padding-bottom: 20px;
                 
             }
 
