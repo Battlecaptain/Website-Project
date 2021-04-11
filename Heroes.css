@@ -454,10 +454,116 @@
     
             }
 
+/*This is the CSS code for the Soldier 76 picture and info*/
 
 
+            .Soldier76Container {
+                display: flex;
+                
+            }
 
 
+            #Soldier762 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Soldier76 {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .Soldier76Text {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #Soldier76Heading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Pharah picture and info*/
+
+
+            .PharahContainer {
+                display: flex;
+                
+            }
+
+
+            #Pharah2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Pharah {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .PharahText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #PharahHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Mercy picture and info*/
+
+
+            .MercyContainer {
+                display: flex;
+                
+            }
+
+
+            #Mercy2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Mercy {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .MercyText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #MercyHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
 
 
 
