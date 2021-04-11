@@ -1125,17 +1125,152 @@
     
             }
 
+/*This is the CSS code for the Symmetra picture and info*/
+
+            .SymmetraContainer {
+                display: flex;
+                
+            }
 
 
+            #Symmetra2 {
+                width: 600px;
+                height: 400px;
+    
+            }
 
 
+            .Symmetra {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .SymmetraText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #SymmetraHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Winston picture and info*/
 
 
+            .WinstonContainer {
+                display: flex;
+                
+            }
 
 
+            #Winston2 {
+                width: 600px;
+                height: 400px;
+    
+            }
 
 
+            .Winston {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
 
+            .WinstonText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #WinstonHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the WreckingBall picture and info*/
+
+
+            .WreckingBallContainer {
+                display: flex;
+                
+            }
+
+
+            #WreckingBall2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .WreckingBall {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .WreckingBallText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #WreckingBallHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Zarya picture and info*/
+
+
+            .ZaryaContainer {
+                display: flex;
+                
+            }
+
+
+            #Zarya2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Zarya {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .ZaryaText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #ZaryaHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
 
 
 
