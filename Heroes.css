@@ -1013,7 +1013,117 @@
     
             }
 
+/*This is the CSS code for the Orisa picture and info*/
 
+
+            .OrisaContainer {
+                display: flex;
+                
+            }
+
+
+            #Orisa2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Orisa {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .OrisaText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #OrisaHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Sigma picture and info*/
+
+
+            .SigmaContainer {
+                display: flex;
+                
+            }
+
+
+            #Sigma2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Sigma {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .SigmaText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #SigmaHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Sombra picture and info*/
+
+
+            .SombraContainer {
+                display: flex;
+                
+            }
+
+
+            #Sombra2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Sombra {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .SombraText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #SombraHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
 
 
 
