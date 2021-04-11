@@ -902,8 +902,116 @@
     
             }
 
+/*This is the CSS code for the Doomfist picture and info*/
 
 
+            .DoomfistContainer {
+                display: flex;
+                
+            }
+
+
+            #Doomfist2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Doomfist {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .DoomfistText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #DoomfistHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Echo picture and info*/
+
+
+            .EchoContainer {
+                display: flex;
+                
+            }
+
+
+            #Echo2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Echo {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .EchoText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #EchoHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Moira picture and info*/
+
+
+            .MoiraContainer {
+                display: flex;
+                
+            }
+
+
+            #Moira2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Moira {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .MoiraText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #MoiraHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
 
 
 
