@@ -679,7 +679,117 @@
     
             }
 
+/*This is the CSS code for the Mei picture and info*/
 
+
+            .MeiContainer {
+                display: flex;
+                
+            }
+
+
+            #Mei2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Mei {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .MeiText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #MeiHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the MCcree picture and info*/
+
+
+            .MCcreeContainer {
+                display: flex;
+                
+            }
+
+
+            #MCcree2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .MCcree {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .MCcreeText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #MCcreeHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Lucio picture and info*/
+
+
+            .LucioContainer {
+                display: flex;
+                
+            }
+
+
+            #Lucio2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Lucio {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .LucioText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #LucioHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
 
 
 
