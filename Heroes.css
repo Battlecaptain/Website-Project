@@ -566,8 +566,118 @@
             }
 
 
+/*This is the CSS code for the Reinhardt picture and info*/
 
 
+            .ReinhardtContainer {
+                display: flex;
+                
+            }
+
+
+            #Reinhardt2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Reinhardt {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .ReinhardtText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #ReinhardtHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Bridgitte picture and info*/
+
+
+            .BridgitteContainer {
+                display: flex;
+                
+            }
+
+
+            #Bridgitte2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Bridgitte {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .BridgitteText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #BridgitteHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Torbjorn picture and info*/
+
+
+            .TorbjornContainer {
+                display: flex;
+                
+            }
+
+
+            #Torbjorn2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Torbjorn {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .TorbjornText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #TorbjornHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
 
 
 
