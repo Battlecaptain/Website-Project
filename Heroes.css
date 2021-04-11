@@ -56,17 +56,26 @@
                     text-decoration: underline;
                     font-size: 100px;
                     padding-top: 25px;
-                    padding-bottom: 25px;
+                    padding-bottom: 50px;
                     font-weight: bold;
                     text-align: center;
                     color: gray;
                     
                 }
 
+/*CSS code for Tracer Picture*/
 
+            .Tracer {
+                margin-left: 150px;
+                
+            }
                 
 
-
+            #Tracer2 {
+                width: 600px;
+                height: 400px;
+    
+            }
 
 
 
