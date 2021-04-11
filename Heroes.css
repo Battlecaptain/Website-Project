@@ -791,6 +791,122 @@
     
             }
 
+/*This is the CSS code for the Ashe picture and info*/
+
+
+            .AsheContainer {
+                display: flex;
+                
+            }
+
+
+            #Ashe2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Ashe {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .AsheText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #AsheHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Ana picture and info*/
+
+
+            .AnaContainer {
+                display: flex;
+                
+            }
+
+
+            #Ana2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Ana {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .AnaText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #AnaHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+/*This is the CSS code for the Baptiste picture and info*/
+
+
+            .BaptisteContainer {
+                display: flex;
+                
+            }
+
+
+            #Baptiste2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Baptiste {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .BaptisteText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #BaptisteHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+
+
+
+
 
 
 
