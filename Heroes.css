@@ -63,24 +63,46 @@
                     
                 }
 
-/*CSS code for Tracer Picture*/
+
+/*The CSS code for the container which includes all the pictures and text*/
+
+                .PictureContainer {
+                    display: flex;
+    
+                }
+
+
+
+/*CSS code for Tracer Picture and info*/
 
             .Tracer {
                 margin-left: 150px;
+                flex-basis: 40%;
                 
+            }
+
+
+            .TracerText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
             }
                 
 
             #Tracer2 {
                 width: 600px;
                 height: 400px;
+                
     
             }
 
-
-
-
-
+            #TracerHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+           
 
 
 
