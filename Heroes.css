@@ -339,6 +339,128 @@
             }
 
 
+/*This is the CSS code for the Junkrat picture and info*/
+
+
+
+            .JunkratContainer {
+                display: flex;
+                
+            }
+
+
+            #Junkrat2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Junkrat {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .JunkratText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #JunkratHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Roadhog picture and info*/
+
+
+
+            .RoadhogContainer {
+                display: flex;
+                
+            }
+
+
+            #Roadhog2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Roadhog {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .RoadhogText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #RoadhogHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+/*This is the CSS code for the Widowmaker picture and info*/
+
+
+            .WidowmakerContainer {
+                display: flex;
+                
+            }
+
+
+            #Widowmaker2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Widowmaker {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .WidowmakerText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #WidowmakerHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+
+
+
+
+
+
 
 
 
