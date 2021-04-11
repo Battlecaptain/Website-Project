@@ -64,17 +64,14 @@
                 }
 
 
-/*The CSS code for the container which includes all the pictures and text. Also the HR line code.*/
+/*The CSS code for the hr lines*/
 
-                .PictureContainer {
-                    display: flex;
-    
-                }
+                
 
                 hr {
                     clear:both;
                     display:block;  
-                    padding-top: 20px;
+                    padding-top: 15px;
                     margin-left: 70px;
                     margin-right: 70px;
                     background-color:crimson;
@@ -83,6 +80,11 @@
 
 
 /*CSS code for Tracer Picture and info*/
+
+            .TracerContainer {
+                display: flex;
+    
+            }
 
             .Tracer {
                 margin-left: 150px;
@@ -113,6 +115,54 @@
     
             }
            
+
+
+/*The CSS code for Reaper Picture and info*/
+
+            .ReaperContainer {
+                display: flex;
+            }
+
+            #Reaper2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+            .Reaper {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .ReaperText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #ReaperHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
