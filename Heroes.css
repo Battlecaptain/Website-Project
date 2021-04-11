@@ -151,6 +151,43 @@
             }
 
 
+/*This is the CSS code for the Hanzo Picture and info*/
+
+            .HanzoContainer {
+                display: flex;
+                
+            }
+
+
+            #Hanzo2 {
+                width: 600px;
+                height: 400px;
+    
+            }
+
+
+            .Hanzo {
+                margin-left: 150px;
+                flex-basis: 40%;
+                padding-bottom: 20px;
+                padding-top: 20px;
+    
+            }
+
+            .HanzoText {
+                padding-left: 75px;
+                margin-right: 400px;
+                padding-top: 50px;
+    
+            }
+
+            #HanzoHeading {
+                margin-left: 275px;
+                font-size: 50px;
+    
+            }
+
+
 
 
 
