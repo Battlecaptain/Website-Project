@@ -101,3 +101,71 @@
                     height: 400px;
     
                 }
+
+
+/*CSS code for the background information*/
+
+                #BackgroundHeading {
+                    font-size: 60px;
+                    font-family: fantasy;
+                    text-align: center;
+                    padding-top: 20px;
+                    
+                }
+
+                #backgroundinfo {
+                    margin-left: 100px;
+                    margin-right: 100px;
+                    text-indent: 30px;
+    
+                }
+
+/*CSS code for the overview information*/
+
+
+                #OverviewHeading {
+                    font-size: 60px;
+                    font-family: fantasy;
+                    text-align: center;
+                    padding-top: 20px;
+    
+                }
+
+
+                #OverviewInfo {
+                    margin-left: 100px;
+                    margin-right: 100px;
+                    text-indent: 30px;
+    
+                }
+
+/*CSS code for the Development information*/
+
+
+
+                #DevelopmentHeading {
+                    font-size: 60px;
+                    font-family: fantasy;
+                    text-align: center;
+                    padding-top: 20px;
+    
+                }
+
+                #DevelopmentInfo {
+                    margin-left: 100px;
+                    margin-right: 100px;
+                    text-indent: 30px;
+    
+                }
+
+
+
+
+
+
+
+
+
+
+
+
